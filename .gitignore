@@ -1,0 +1,8 @@
+.vscode
+node-alarm/node_modules
+mqtt-server/node_modules
+mqtt-server/publisher.js
+mqtt-server/sub.js
+webcam-server/__pycache__
+webcam-server/*.old
+webcam-server/token.txt
