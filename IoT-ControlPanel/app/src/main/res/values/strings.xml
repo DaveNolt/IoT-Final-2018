@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IoT Final - Control Panel</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonSetTimeoutLengthText">Set Timeout Length</string>
+    <string name="editTimeoutLengthDefault">180</string>
+    <string name="buttonTimeoutText">Timeout</string>
+    <string name="buttonAlarmText">Alarm</string>
+</resources>

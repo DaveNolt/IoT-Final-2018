@@ -8,11 +8,11 @@ webcam-server/*.old
 webcam-server/token.txt
 IoT-ControlPanel/*.iml
 IoT-ControlPanel/.gradle
-IoT-ControlPanel//local.properties
-IoT-ControlPanel//.idea/libraries
-IoT-ControlPanel//.idea/modules.xml
-IoT-ControlPanel//.idea/workspace.xml
+IoT-ControlPanel/local.properties
+IoT-ControlPanel/.idea/libraries
+IoT-ControlPanel/.idea/modules.xml
+IoT-ControlPanel/.idea/workspace.xml
 IoT-ControlPanel/.DS_Store
-IoT-ControlPanel//build
-IoT-ControlPanel//captures
+IoT-ControlPanel/build
+IoT-ControlPanel/captures
 IoT-ControlPanel/.externalNativeBuild
