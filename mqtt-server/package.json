@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "mosca": "^2.8.1",
+    "mosca": "^2.8.2",
     "mqtt": "^2.17.0"
   }
 }
